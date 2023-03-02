@@ -1,5 +1,4 @@
 {
-  "homepage": "http://pyramide-podologie.ch/",
   "name": "podologie-pyramide",
   "private": true,
   "version": "0.0.0",
@@ -16,6 +15,7 @@
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
+    "@types/node": "^18.11.18",
     "@types/react": "^18.0.24",
     "@types/react-dom": "^18.0.8",
     "@vitejs/plugin-react": "^2.2.0",

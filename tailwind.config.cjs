@@ -1,13 +1,12 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: ['./index.html', './src/**/*.{jsx,js}'],
+  content: ['./src/**/*.{jsx,js,html}'],
   theme: {
-    backgroundImage: {
-      'content-img': "url('/src/assets/ContentImg.jpg')",
-    },
     extend: {
       fontFamily: {
-        inter: ['inter', 'serif']
+        inter: ['inter', 'serif'],
+        oswald: ['Oswald', 'sans-serif'],
+        allura: ['Allura', 'cursive']
       },
     },
   },
