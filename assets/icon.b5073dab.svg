@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="28.531181mm"
+   height="27.810413mm"
+   viewBox="0 0 28.531181 27.810413"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="icon.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   inkscape:export-filename="icon.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.84670104"
+     inkscape:rotation="-1"
+     inkscape:cx="136.76563"
+     inkscape:cy="488.46518"
+     inkscape:window-width="958"
+     inkscape:window-height="1048"
+     inkscape:window-x="-7"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient6848"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#27d314;stop-opacity:1;"
+         offset="0"
+         id="stop6846" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-34.229058,-53.836878)">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.665;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-dasharray:none"
+       d="m 45.947327,57.711038 1.975585,-3.442306 c 0.274736,-0.32253 0.584524,-0.469795 1.017725,0 l 13.380101,23.228093 c 0.249801,0.741666 -0.08971,1.511777 -0.632321,1.540273 l -26.576714,0.14608 c -0.859812,-0.19293 -0.584337,-1.50001 -0.449159,-1.836019 l 9.18952,-16.179649 c 0.28335,-0.270934 0.442209,-0.265935 0.781889,0.08364 1.873221,2.579915 2.231206,4.880302 -0.0056,6.9791 -0.156238,0.146599 -0.30698,0.267569 -0.432353,0.377215 -0.372117,0.227025 -0.61638,0.476534 -0.878855,0.752138 -0.448579,0.663103 -0.791514,1.914688 1.081807,2.544608 2.759002,1.695527 2.740475,4.172896 2.784509,4.362004 0.03266,0.14093 0.202251,0.692779 0.205842,0.768024 0.152342,0.815743 0.910339,0.690368 1.51242,0.667953 1.358417,-0.06808 1.063752,-0.03899 1.621917,-0.08574 0.559554,-0.04687 0.743509,-0.249752 0.856183,-0.523338 -0.01939,-0.181658 -0.01683,-0.409386 -0.41714,-0.578385 -0.422422,-0.178331 -0.645575,-0.04803 -0.861698,-0.383339 -0.263189,-0.408331 -0.533689,-1.080574 -0.667791,-1.608254 -0.187818,-1.634797 -0.223815,-1.790735 -0.585301,-2.975746 -0.08378,-0.274636 -0.584885,-1.32992 -0.624908,-1.617712 -0.05914,-0.425294 -0.03347,-0.606333 0.02498,-0.845566 0.960398,-2.538411 2.150478,-5.677575 2.464814,-6.701493"
+       id="path241"
+       sodipodi:nodetypes="cccccccccsccccccscsscsscc"
+       inkscape:export-filename="icon.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+</svg>
