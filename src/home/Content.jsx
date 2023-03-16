@@ -18,7 +18,7 @@ function Content() {
   return (
     <div class={content}>
       <AboutMe />
-      <img class="col-span-2 lg:col-span-1" src='./assets/Navarra.jpg'/>
+      <img class="col-span-2 lg:col-span-1" src='../assets/Navarra.jpg'/>
     </div>
   )
 }
