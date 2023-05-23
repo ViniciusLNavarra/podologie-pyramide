@@ -14,11 +14,12 @@ export default defineConfig({
     emptyOutDir: true,
     rollupOptions: {
       input: {
-        main: resolve(root, 'index.html'),
+        main: resolve(root),
         contact: resolve(root, 'contact', 'index.html'),
         price: resolve(root, 'price', 'index.html'),
-        service: resolve(root, 'service', 'index.html')
+        service: resolve(root, 'service', 'index.html'),
+        about: resolve(root, 'pages', 'about.html')
       }
     }
-  }
+  },
 })
