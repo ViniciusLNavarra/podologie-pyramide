@@ -14,7 +14,7 @@ export default defineConfig({
     emptyOutDir: true,
     rollupOptions: {
       input: {
-        main: resolve(root),
+        main: resolve(root, 'index.html'),
         about: resolve(root, 'about', 'index.html'),
         contact: resolve(root, 'contact', 'index.html'),
         price: resolve(root, 'price', 'index.html'),
